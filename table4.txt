@@ -1,0 +1,13 @@
+red blend;bordeaux-style red blend,portuguese red,rhône-style red blend,austrian red blend,claret,meritage,provence red blend,grenache-syrah, touriga nacional-cabernet sauvignon ,merlot-cabernet sauvignon,tannat-cabernet, tempranillo-cabernet sauvignon,tempranillo-garnacha, malbec-cabernet sauvignon, malbec-merlot
+rose blend;rosé,rosato
+white blend;bordeaux-style white blend,portuguese white,rhône-style white blend,tokaji,alsace white blend,austrian white blend,white riesling,marsanne-roussanne,verdejo-viura,chenin blanc-chardonnay,sauvignon blanc-semillon,semillon-sauvignon blanc,chardonnay-viognier
+sparkling blend;portuguese sparkling, prosecco
+champagne blend;
+fortified blend;port,sherry
+muscat;muscat of alexandria,muscat canelli,orange muscat,gelber muskateller
+cabernet sauvignon blend;cabernet blend,cabernet sauvignon-merlot,cabernet sauvignon-syrah,cabernet sauvignon-shiraz,cabernet sauvignon-carmenère,cabernet sauvignon-malbec,cabernet sauvignon-cabernet franc,cabernet merlot,cabernet sauvignon-carmenère,cabernet sauvignon-malbec
+shiraz blend;syrah-cabernet,syrah-grenache, syrah-grenache, shiraz-cabernet sauvignon,shiraz-viognier,shiraz-grenache
+
+
+
+
